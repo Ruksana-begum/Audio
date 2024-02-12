@@ -22,6 +22,10 @@ provides high security and privacy on sharing any confidential data on any socia
 - PIL (Python Imaging Library)
 - wave (Python module)
 
+  ## useful
+
+  Audio stenography is useful for secure communication, covert information exchange, and copyright protection in contexts such as intelligence agencies, journalism, digital forensics, and personal privacy.
+
 ## Screenshots
 
 ![1-main](https://github.com/Ruksana-begum/Audio/assets/127771632/ee0cb9ce-b26d-48d9-a24f-bb09e06ad569)
