@@ -175,9 +175,9 @@ root.iconphoto(False, image_icon)
 Label(root, text='Audio Steganography', font=('Comic Sans MS', 15), bg='NavajoWhite', wraplength=300).place(x=40, y=0)
 Button(root, text='Encode', width=15, font=('Times New Roman', 13), bg='NavajoWhite', command=encode_audio).place(x=30,
                                                                                                                 y=80)
-Button(root, text='Decode', width=15, font=('Times New Roman', 13), bg='NavajoWhite', command=decode_audio).place(x=200,
-                                                                                                                 y=80)
-Button(root, text='Exit', width=15, font=('Times New Roman', 13), bg='NavajoWhite', command=root.destroy).place(x=370,
-                                                                                                                y=80)
+Button(root, text='Decode', width=15, font=('Times New Roman', 13), bg='NavajoWhite', command=decode_audio).place(x=30,
+                                                                                                                 y=120)
+Button(root, text='Exit', width=15, font=('Times New Roman', 13), bg='NavajoWhite', command=root.destroy).place(x=30,
+                                                                                                                y=160)
 
 root.mainloop()
